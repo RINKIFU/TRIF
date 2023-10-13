@@ -7,7 +7,7 @@ pkg install git clang curl libffi libsodium openssl
 pkg uninstall python -y
 cd $HOME
 git clone https://github.com/RINKIFU/TRIF
-
+```
 ## Install Python Versi 3.10
 ```sh
 Anda Harus Menggunakan Versi Python 3.10 Dikarenakan Versi Python 3.11 / Lebih Besar Tidak Support Pada Cython
